@@ -1,4 +1,4 @@
-# Draw a card — creative thinking cards
+# Existential Crisis Deck
 
 Fifty-two prompts for a looser mind. Shuffle, draw a card, answer honestly, and keep your answers in a private journal that stays in your browser.
 
